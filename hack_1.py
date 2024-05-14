@@ -1,6 +1,5 @@
-"""
-text: "fooziman" output => "FOOZIMAN"
-"""
+
+""" text: "fooziman" output => "FOOZIMAN" """
 
 def fn_hack_1():
     result = "fooziman"
