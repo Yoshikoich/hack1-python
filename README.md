@@ -1,4 +1,4 @@
-# SOCIAL OPLESK
+# SOCIAL OPLESK - Andrea Gómez
 ### 🏴‍☠️ HACKS 
 
 <br/>
